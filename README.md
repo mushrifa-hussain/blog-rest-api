@@ -20,15 +20,7 @@ This project also includes a small **frontend client using EJS and Axios** that 
 
 ## 🖼 Screenshots
 
-*(Add your screenshots here)*
-
-Example:
-
-![Homepage](screenshots/home.png)
-
-![Create Post](screenshots/create.png)
-
-![Edit Post](screenshots/edit.png)
+<img width="1919" height="1012" alt="image" src="https://github.com/user-attachments/assets/63571f3c-4b5e-487d-a292-f9d5b7509f15" />
 
 ---
 
